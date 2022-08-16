@@ -32,3 +32,6 @@ Once you do this, configure the smart contract to fit your needs, and deploy to 
 
 
 When you are ready to deploy to the mainnet, update your .env, hardhat.config.js, and scripts/deploy.js files - and use the same process to deploy your contract to the mainnet.
+
+P.S.
+The payment section of the smart contract includes a completely optional symbolic 2.5% tip for our team. Feel free to remove it, although it would help maintain this repository.
