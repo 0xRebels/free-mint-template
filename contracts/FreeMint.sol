@@ -15,8 +15,10 @@ Contract based on https://docs.openzeppelin.com/contracts/3.x/erc721
 SPDX-License-Identifier: MIT                                                                            
 
 You can learn more about this smart contract from our Medium article at: 
+https://medium.com/coinmonks/free-nfts-good-or-bad-plus-a-free-smart-contract-template-for-free-mint-nft-collections-7f7d47edd61c
 
 You can download "clean" copy of this contract from GitHub at: 
+https://github.com/0xRebels/free-mint-template
 
 Disclaimer:
 This contract is provided as is, and witout any warranties. 
